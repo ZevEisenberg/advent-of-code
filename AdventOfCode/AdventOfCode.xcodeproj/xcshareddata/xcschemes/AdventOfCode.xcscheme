@@ -47,6 +47,9 @@
                <Test
                   Identifier = "AdventOfCodeTests/testDay3()">
                </Test>
+               <Test
+                  Identifier = "AdventOfCodeTests/testDay4()">
+               </Test>
             </SkippedTests>
          </TestableReference>
       </Testables>

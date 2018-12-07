@@ -27,4 +27,8 @@ class AdventOfCodeTests: XCTestCase {
         Day4()
     }
 
+    func testDay5() {
+        Day5()
+    }
+
 }
