@@ -17,6 +17,8 @@
 		5B0C59C521B5B61D00A723D1 /* AdventOfCodeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B0C59C421B5B61D00A723D1 /* AdventOfCodeTests.swift */; };
 		5B0C59CD21B5B65400A723D1 /* Day2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B0C59CC21B5B65400A723D1 /* Day2.swift */; };
 		5B0C59CF21B5B6D200A723D1 /* Day3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B0C59CE21B5B6D200A723D1 /* Day3.swift */; };
+		5B0C59D521B6CF4900A723D1 /* 4.txt in Resources */ = {isa = PBXBuildFile; fileRef = 5B0C59D421B6CF4900A723D1 /* 4.txt */; };
+		5B0C59D721B6CF6B00A723D1 /* Day4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B0C59D621B6CF6B00A723D1 /* Day4.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +47,8 @@
 		5B0C59C621B5B61D00A723D1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5B0C59CC21B5B65400A723D1 /* Day2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Day2.swift; sourceTree = "<group>"; };
 		5B0C59CE21B5B6D200A723D1 /* Day3.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Day3.swift; sourceTree = "<group>"; };
+		5B0C59D421B6CF4900A723D1 /* 4.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = 4.txt; sourceTree = "<group>"; };
+		5B0C59D621B6CF6B00A723D1 /* Day4.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Day4.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +107,7 @@
 				5B0C59B721B5B59E00A723D1 /* 1.txt */,
 				5B0C59B621B5B59E00A723D1 /* 2.txt */,
 				5B0C59B521B5B59E00A723D1 /* 3.txt */,
+				5B0C59D421B6CF4900A723D1 /* 4.txt */,
 			);
 			path = input;
 			sourceTree = "<group>";
@@ -113,6 +118,7 @@
 				5B0C59BC21B5B5C200A723D1 /* Day1.swift */,
 				5B0C59CC21B5B65400A723D1 /* Day2.swift */,
 				5B0C59CE21B5B6D200A723D1 /* Day3.swift */,
+				5B0C59D621B6CF6B00A723D1 /* Day4.swift */,
 			);
 			path = Challenges;
 			sourceTree = "<group>";
@@ -212,6 +218,7 @@
 				5B0C59B921B5B59E00A723D1 /* 2.txt in Resources */,
 				5B0C59A721B5B59000A723D1 /* Assets.xcassets in Resources */,
 				5B0C59AA21B5B59000A723D1 /* MainMenu.xib in Resources */,
+				5B0C59D521B6CF4900A723D1 /* 4.txt in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -230,6 +237,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5B0C59BD21B5B5C200A723D1 /* Day1.swift in Sources */,
+				5B0C59D721B6CF6B00A723D1 /* Day4.swift in Sources */,
 				5B0C59CD21B5B65400A723D1 /* Day2.swift in Sources */,
 				5B0C59CF21B5B6D200A723D1 /* Day3.swift in Sources */,
 				5B0C59A521B5B58F00A723D1 /* AppDelegate.swift in Sources */,
