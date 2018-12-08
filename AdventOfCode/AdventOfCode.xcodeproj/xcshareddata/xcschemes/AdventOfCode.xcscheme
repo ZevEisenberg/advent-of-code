@@ -50,6 +50,9 @@
                <Test
                   Identifier = "AdventOfCodeTests/testDay4()">
                </Test>
+               <Test
+                  Identifier = "AdventOfCodeTests/testDay5()">
+               </Test>
             </SkippedTests>
          </TestableReference>
       </Testables>
